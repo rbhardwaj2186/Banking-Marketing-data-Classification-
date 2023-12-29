@@ -27,7 +27,7 @@ The R project you've shared revolves around statistical analysis and machine lea
 These libraries and frameworks cover a wide array of statistical and machine learning techniques, enabling tasks from exploratory data analysis to model building and evaluation in a structured and comprehensive manner within the R environment.
 
 # Following were the statistical analysis visualization from the case study
-![Alt text](image13.jpeg) ![Alt text](imag1-1.jpeg) ![Alt text](imag2.jpeg) ![Alt text](imag3.jpeg) ![Alt text](imag4.jpeg) ![Alt text](image5.jpeg) ![Alt text](image7.jpeg) ![Alt text](image8.jpeg) ![Alt text](image9.jpeg) ![Alt text](image10.jpeg) ![Alt text](image11.jpeg) ![Alt text](image12.jpeg)
+![Alt text](image13.jpeg) ![Alt text](imag1-1.jpeg) ![Alt text](imag2.jpeg) ![Alt text](imag3.jpeg) ![Alt text](imag4.jpeg) ![Alt text](image5.jpeg) ![Alt text](image7.jpeg) ![Alt text](image8.jpeg) ![Alt text](image9.jpeg) ![Alt text](image10.jpeg) ![Alt text](image11.jpeg) ![Alt text](image12.jpeg)![Alt text](imag19.jpeg)
 
 
 
